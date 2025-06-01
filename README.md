@@ -1,1 +1,1 @@
-# zama-commit-testnett
+# Project Helper CLI
